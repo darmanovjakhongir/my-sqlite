@@ -31,8 +31,8 @@ The MySQLite CLI allows users to perform SQL-like operations on CSV files. It is
 ## Installation
 
 1. Make sure you have Ruby installed on your system.
-2. Clone this repository: `https://github.com/darmanovjakhongir/Full-Stack-My-Sqlite.git`.
-3. Go to the project directory: `cd Full-Stack-My-Sqlite`.
+2. Clone this repository: `https://github.com/darmanovjakhongir/my-sqlite.git`.
+3. Go to the project directory: `cd my-sqlite`.
 4. Install the required gems (CSV is part of the Ruby standard library): `bundle install`.
 5. Make sure the `my_sqlite_request.rb` file is in the same directory as your CLI script.
 
