@@ -41,7 +41,7 @@ The MySQLite CLI allows users to perform SQL-like operations on CSV files. It is
 1. Run the following command in the terminal to start My-SQLite: `ruby my_sqlite_cli.rb`.
 2. To exit My-SQLite, type exit and press Enter.
 
-## Core team
+## The Core Team
 
 <span><i> Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span >
