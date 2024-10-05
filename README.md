@@ -6,7 +6,7 @@ A lightweight SQL-like command-line interface for working with CSV files as a da
 
 - [Task](#task)
 - [Description](#description)
-- [Install](#install)
+- [Installation](#installation)
 - [Usage](#usage)
 
 ## Task
